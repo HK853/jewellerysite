@@ -78,7 +78,11 @@
 
 .fixed-top{
     background-color: #ffc800;
-    height: 60px;
+    height: 70px;
+}
+
+#collapsibleNavId {
+    background-color: #ffc800;
 }
 
 /* home pg */
